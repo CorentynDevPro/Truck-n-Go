@@ -1,0 +1,26 @@
+{
+  "name": "Truck-n-Go",
+  "version": "1.0.0",
+  "description": "Monorepo for Truck-n-Go application, a Web & Mobile app for truck drivers to find parking spots and services.",
+  "workspaces": [
+    "backend",
+    "frontend",
+    "shared",
+    "db"
+  ],
+  "scripts": {
+    "lint": "pnpm -r lint",
+    "format": "pnpm -r format",
+    "test": "pnpm -r test",
+    "build": "pnpm -r build",
+    "dev": "pnpm -r dev"
+  },
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "prettier": "^3.0.0"
+  },
+  "keywords": [],
+  "author": "CorentynDevPro",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1"
+}

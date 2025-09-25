@@ -1,0 +1,13 @@
+{
+  "name": "db",
+  "version": "1.0.0",
+  "description": "Database migrations and seed scripts for Truck-n-Go",
+  "scripts": {
+    "migrate": "echo \"Add migration command here\"",
+    "seed": "echo \"Add seed command here\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.12.1"
+}
