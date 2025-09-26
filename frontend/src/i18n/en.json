@@ -1,0 +1,14 @@
+{
+  "app": {
+    "welcome": "Welcome to Truck-n-Go",
+    "change_language": "Change language"
+  },
+  "truckProfile": {
+    "title": "Truck Profile",
+    "name": "Truck Name",
+    "type": "Type",
+    "length": "Length (m)",
+    "width": "Width (m)",
+    "height": "Height (m)"
+  }
+}
